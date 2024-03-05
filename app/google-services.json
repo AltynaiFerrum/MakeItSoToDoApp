@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446226735734",
+    "project_id": "makeitsotodoapp",
+    "storage_bucket": "makeitsotodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446226735734:android:0d6efc3f670525990c7557",
+        "android_client_info": {
+          "package_name": "com.jyldyzferr.makeitsotodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfpUhvzJizCgy_7lLXzVoaVQaMlt7aXBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
